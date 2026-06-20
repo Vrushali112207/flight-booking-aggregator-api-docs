@@ -9,3 +9,5 @@ The Flight Booking Aggregator API provides a unified interface for searching fli
 - Payment Processing
 - Ticket Generation
 - Cancellation and Refunds
+
+![Architecture](architecture/system-overview.png)
